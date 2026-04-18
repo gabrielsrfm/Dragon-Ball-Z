@@ -1,12 +1,12 @@
-# 🐉 Enciclopédia Dragon Ball Z
+# Enciclopédia Dragon Ball Z
 
 Este é um projeto web fan-made dedicado aos personagens e transformações do universo de Dragon Ball Z. O objetivo é fornecer uma navegação simples e visualmente agradável sobre os guerreiros mais poderosos do anime.
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - **HTML5:** Estrutura semântica das páginas.
 - **CSS3:** Estilização responsiva com tema inspirado no planeta **Namekusei**.
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 O projeto está organizado de forma modular para facilitar a adição de novos personagens:
 
 ```text
